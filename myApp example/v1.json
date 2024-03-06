@@ -38,7 +38,7 @@
             "currentEnvironmentId": "ef7d2afb-8173-4238-952a-3ec0848d20f9",
             "promotedFrom": null,
             "createdAt": "2024-03-06T16:36:25.790Z",
-            "updatedAt": "2024-03-06T16:37:07.225Z"
+            "updatedAt": "2024-03-06T16:38:07.813Z"
           },
           "components": [
             {
@@ -75,11 +75,53 @@
                 {
                   "id": "35251dca-8014-4f94-97fe-bfe2e1e38b40",
                   "type": "desktop",
-                  "top": 170,
-                  "left": 46.51162790697674,
+                  "top": 50,
+                  "left": 13.953486292353482,
                   "width": 7,
                   "height": 30,
                   "componentId": "a581116a-a16d-4482-8da9-546b5596b858"
+                }
+              ]
+            },
+            {
+              "id": "7f2eeb5b-1935-4e0c-a2a7-2ec766b0f236",
+              "name": "text1",
+              "type": "Text",
+              "pageId": "d9254805-ced5-407c-8a05-27478499572e",
+              "parent": null,
+              "properties": {},
+              "general": null,
+              "styles": {},
+              "generalStyles": null,
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-03-06T16:38:07.798Z",
+              "updatedAt": "2024-03-06T16:38:07.798Z",
+              "layouts": [
+                {
+                  "id": "152406f1-344e-4cf3-8ac9-c8be08bb94d7",
+                  "type": "desktop",
+                  "top": 40,
+                  "left": 39.53488372093023,
+                  "width": 6,
+                  "height": 40,
+                  "componentId": "7f2eeb5b-1935-4e0c-a2a7-2ec766b0f236"
+                },
+                {
+                  "id": "fd9c9fb1-01f0-4e21-8c49-c8cdf2c44339",
+                  "type": "mobile",
+                  "top": 40,
+                  "left": 39.53488372093023,
+                  "width": 6,
+                  "height": 40,
+                  "componentId": "7f2eeb5b-1935-4e0c-a2a7-2ec766b0f236"
                 }
               ]
             }
@@ -120,7 +162,7 @@
               "currentEnvironmentId": "ef7d2afb-8173-4238-952a-3ec0848d20f9",
               "promotedFrom": null,
               "createdAt": "2024-03-06T16:36:25.790Z",
-              "updatedAt": "2024-03-06T16:37:07.225Z"
+              "updatedAt": "2024-03-06T16:38:07.813Z"
             }
           ],
           "appEnvironments": [

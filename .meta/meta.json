@@ -9,10 +9,10 @@
   },
   "96c57643-3d5e-47d6-b005-edad175fcd24": {
     "gitAppName": "OpenAI application",
-    "lastCommitMessage": " v4 Version of app OpenAI application promoted from development to staging",
-    "gitVersionId": "afefa152-bc41-42f6-b98b-b5a7ec6b57bb",
-    "lastpushDate": "2024-03-22T12:00:12.061Z",
-    "gitVersionName": "v4",
+    "lastCommitMessage": " v5 Version of app OpenAI application promoted from development to staging",
+    "gitVersionId": "1110d68a-1f44-4c01-accc-e19a4746c7d7",
+    "lastpushDate": "2024-03-22T12:02:22.472Z",
+    "gitVersionName": "v5",
     "lastCommitUser": "Allen Joseph"
   }
 }

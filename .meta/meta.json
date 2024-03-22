@@ -6,5 +6,13 @@
     "lastpushDate": "2024-03-12T07:04:39.264Z",
     "gitVersionName": "v2",
     "lastCommitUser": "Allen Joseph"
+  },
+  "96c57643-3d5e-47d6-b005-edad175fcd24": {
+    "gitAppName": "OpenAI application",
+    "lastCommitMessage": " v1 Version of app OpenAI application promoted from development to staging",
+    "gitVersionId": "a4e25c6a-da49-4c6a-8eb2-978eb0ab740b",
+    "lastpushDate": "2024-03-22T06:52:13.254Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "Allen Joseph"
   }
 }
